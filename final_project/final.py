@@ -30,4 +30,3 @@ def rotate_door():
 
 rotate_door()
 
-maya.cmds.multiplyDivide
